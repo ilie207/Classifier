@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Classification App</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div id="container">
+      <input type="file" id="fileInput" accept="image/*" />
+      <img id="selectedImage" />
+      <br />
+      <button id="classifyButton" class="button">Classify Image</button>
+      <br />
+      <table id="resultsTable">
+        <tr>
+          <th>Model 1</th>
+          <th>Model 2</th>
+          <th>Model 3</th>
+        </tr>
+        <tr>
+          <td id="results"></td>
+          <td id="results2"></td>
+          <td id="results3"></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
