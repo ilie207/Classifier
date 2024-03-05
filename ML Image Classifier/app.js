@@ -97,9 +97,9 @@ function gotResult3(error, results) {
 
 function getConfidenceText(confidence) {
   let confidenceText = "";
-  if (confidence >= 51 && confidence < 65) {
+  if (confidence >= 51 && confidence <= 59) {
     confidenceText = "Subject could be";
-  } else if (confidence >= 65 && confidence < 75) {
+  } else if (confidence >= 60 && confidence <= 79) {
     confidenceText = "Subject is likely";
   } else {
     confidenceText = "Subject is";
