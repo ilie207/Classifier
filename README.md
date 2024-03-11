@@ -18,16 +18,17 @@ This is a simple web application that allows users to upload images and classify
 
 1. **Gender Classification Model:**
 
-   - URL: https://teachablemachine.withgoogle.com/models/_i9lcSwZT/
+   - URL: https://teachablemachine.withgoogle.com/models/IPfqhFwOd/
+
    - This model classifies images into male or female categories.
 
 2. **Facial Hair Classification Model:**
 
-   - URL: https://teachablemachine.withgoogle.com/models/yO4Bohp6-/
+   - URL: https://teachablemachine.withgoogle.com/models/v9_MqnXvg/
    - This model determines whether the image subject has facial hair or not.
 
 3. **Glasses Presence Classification Model:**
-   - URL: https://teachablemachine.withgoogle.com/models/vD7_cXowP/
+   - URL: https://teachablemachine.withgoogle.com/models/z83jBonUC/
    - This model identifies whether the image subject is wearing glasses or not.
 
 ## Installation
