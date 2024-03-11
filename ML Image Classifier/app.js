@@ -1,10 +1,10 @@
 "use strict";
 
-var imageModelURL = "https://teachablemachine.withgoogle.com/models/_i9lcSwZT/";
+var imageModelURL = "https://teachablemachine.withgoogle.com/models/IPfqhFwOd/";
 var imageModelURL2 =
-  "https://teachablemachine.withgoogle.com/models/yO4Bohp6-/";
+  "https://teachablemachine.withgoogle.com/models/v9_MqnXvg/";
 var imageModelURL3 =
-  "https://teachablemachine.withgoogle.com/models/vD7_cXowP/";
+  "https://teachablemachine.withgoogle.com/models/z83jBonUC/";
 
 let classifier1;
 let classifier2;
