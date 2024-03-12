@@ -2,9 +2,9 @@
 
 var imageModelURL = "https://teachablemachine.withgoogle.com/models/IPfqhFwOd/";
 var imageModelURL2 =
-  "https://teachablemachine.withgoogle.com/models/v9_MqnXvg/";
-var imageModelURL3 =
   "https://teachablemachine.withgoogle.com/models/z83jBonUC/";
+var imageModelURL3 =
+  "https://teachablemachine.withgoogle.com/models/yO4Bohp6-/";
 
 let classifier1;
 let classifier2;

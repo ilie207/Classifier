@@ -24,7 +24,7 @@ This is a simple web application that allows users to upload images and classify
 
 2. **Facial Hair Classification Model:**
 
-   - URL: https://teachablemachine.withgoogle.com/models/v9_MqnXvg/
+   - URL: https://teachablemachine.withgoogle.com/models/yO4Bohp6-/
    - This model determines whether the image subject has facial hair or not.
 
 3. **Glasses Presence Classification Model:**
